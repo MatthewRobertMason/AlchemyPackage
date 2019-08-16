@@ -1,0 +1,14 @@
+{
+  "name": "com.letsmatt.alchemy",
+  "version": "0.1.0",
+  "displayName": "Alchemy Engine",
+  "description": "Mix tags according to the alchemy rules",
+ "keywords": [
+    "Alchemy",
+    "combine",
+    "tags"
+  ],
+  "author": {
+    "name": "Adam and Matt"
+  } 
+}
